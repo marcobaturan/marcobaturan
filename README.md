@@ -20,20 +20,17 @@ Hi there! I'm Marco Baturan, an AI Manager and Developer based in Madrid, Spain.
 | Backend & DevOps     | Python, Bash, Docker, GitHub Actions                 |
 | QA & Testing         | Selenium, Pytest, Postman                            |
 | Automation & Tools   | CSV scripting, Git, Linux, Anki                      |
-| Vibe coding          | Cursor, Lovable                                      |
+| Vibe coding          | Cursor, Lovable, Gemini-Cli, Windsurf AI             |
 
 ## 📂 Featured Repositories
 
-- [`MAI`](https://github.com/marcobaturan/MAI): A versatile Python-based virtual assistant.
-- [`CPEScript`](https://github.com/marcobaturan/CPEScript): Postal code extractor by province.
-- [`genskeleton`](https://github.com/marcobaturan/genskeleton_2_-_3): Project skeleton generator for Python.
-- [`Computational-Biostasis-Research-Group`](https://github.com/marcobaturan/Computational-Biostasis-Research-Group): Data simulation and analysis for biostasis research.
+- [Portfolio](https://github.com/marcobaturan/Portfolio_AI)
 
 ## 🌐 Connect with Me
 
+- [Marco's site](https://sites.google.com/view/marcobaturan/)
 - [LinkedIn](https://www.linkedin.com/in/marcogarciabaturan/)
 - [GitHub](https://github.com/marcobaturan)
-- [Meshy](https://www.meshy.ai/es/@s17551916096b16c)
 - [about.me](https://about.me/marco.baturan)
 
 ---
