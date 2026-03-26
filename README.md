@@ -24,7 +24,7 @@ Hi there! I'm Marco Baturan, an AI Manager and Developer based in Madrid, Spain.
 
 ## 📂 Featured Repositories
 
-- [Portfolio](https://github.com/marcobaturan/Portfolio_AI)
+- **[Portfolio](https://github.com/marcobaturan/Portfolio_AI)**
 
 ## 🌐 Connect with Me
 
