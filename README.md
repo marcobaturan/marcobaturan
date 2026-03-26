@@ -1,7 +1,7 @@
 # 👨‍💻 Marco Baturan — AI Manager & Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcogarciabaturan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-green?style=for-the-badge&logo=github)](https://github.com/marcobaturan/Portfolio_AI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-green?style=for-the-badge&logo=github)](https://marcobaturan.github.io/Portfolio_AI/)
 [![Scholar](https://img.shields.io/badge/Scholar-Citations-orange?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=gqWxbUYAAAAJ)
 
 > **"Bridging the Gap Between Scientific Rigor and Production-Ready AI."**
