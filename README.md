@@ -44,7 +44,7 @@ I believe in the convergence of AI and science. You can track my research contri
 
 ## 🌐 Connect & Collaborate
 
-- 🏠 **Personal Site**: [marcobaturan.dev](https://sites.google.com/view/marcobaturan/)
+- 🏠 **Personal Site**: [Marco Baturan Sites](https://sites.google.com/view/marcobaturan/)
 - 💼 **Professional**: [LinkedIn](https://www.linkedin.com/in/marcogarciabaturan/)
 - 📝 **About Me**: [about.me/marco.baturan](https://about.me/marco.baturan)
 - 🚀 **Company**: [GetDevWorks](https://www.getdevworks.com/)
