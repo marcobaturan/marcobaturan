@@ -1,44 +1,66 @@
-# 👨‍💻 Marco Baturan — AI Manager & Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcogarciabaturan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-green?style=for-the-badge&logo=github)](https://marcobaturan.github.io/Portfolio_AI/)
-[![Scholar](https://img.shields.io/badge/Scholar-Citations-orange?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=gqWxbUYAAAAJ)
-
-> **"Bridging the Gap Between Scientific Rigor and Production-Ready AI."**
-
-I am an AI Manager and Developer based in Madrid, Spain. I specialize in blending deep technical expertise in both Symbolic and Statistical AI with a strategic vision for building scalable, high-impact software solutions.
-
+# Marco Baturan García
+ 
+**Senior SDET · AI Integration Engineer · Backend Python**
+ 
+Madrid, Spain · marco.baturan@gmail.com · [LinkedIn](https://linkedin.com/in/marcogarciabaturan)
+ 
 ---
-
-## ⚡ The 30-Second Pitch
-
-*   **The Problem**: Many AI initiatives fail to bridge the gap between theoretical research and stable, automated production environments.
-*   **The Solution**: A multi-disciplinary approach combining **Full-Stack Development**, **QA Automation**, and **AI Engineering** (Symbolic & Statistical) to build tools that are not just intelligent, but maintainable and robust.
-*   **The Impact**: 
-    - **Active Scientific Contributor**: Member of the *Computational Biostasis Research Group*, translating complex biological data into computational insights.
-    - **Full-Spectrum AI**: Expert in everything from classical **LISP/Prolog** to modern **LLMs & Computer Vision**.
-    - **Automation First**: 100% commitment to clean architecture and CI/CD, reducing technical debt and manual overhead in every project.
-
+ 
+## About
+ 
+8+ years designing and deploying QA automation frameworks and AI integration systems in regulated financial environments.
+ 
+Core work: Python automation architecture, LLM pipeline engineering, RAG systems, RLHF annotation and evaluation, and voice model training. Background in fintech (200+ banking systems), currently contracted for LLM quality assurance and multimodal AI evaluation.
+ 
+Not a generalist. A systems engineer who connects QA, AI, and backend layers.
+ 
 ---
-
-## 🧰 Technical Powerhouse
-
-| Domain | Expert Tech Stack |
-| :--- | :--- |
-| **AI / ML / GenAI** | Python, TensorFlow, PyTorch, LangChain, LangGraph, OpenAI, OpenCV, NLTK, RAG |
-| **Symbolic AI (Classical)** | LISP, Prolog |
-| **Data Science** | R, Weka, Orange, Jupyter Notebooks |
-| **Web & Backend** | Flask, Django, HTML5, CSS3, Modern JS |
-| **DevOps & QA** | Docker, GitHub Actions, Bash, Selenium, Pytest, Postman |
-| **Engineering Tools** | Antigravity, Cursor, Lovable, Gemini-Cli, Windsurf AI (Vibe Coding) |
-
+ 
+## Technical Stack
+ 
+| Area | Tools |
+|---|---|
+| Languages | Python 3.10–3.13, JavaScript, SQL, Bash |
+| AI / ML | LangChain, LangGraph, RAG, RLHF, Groq, Ollama, ChromaDB, Qdrant, OpenAI API |
+| QA / Testing | Robot Framework, Selenium, pytest, Gherkin/BDD, Locust, pylint, bandit |
+| Backend | FastAPI, Django, SQLAlchemy, REST APIs, PostgreSQL, SQLite |
+| DevOps | Jenkins, GitHub Actions, Docker, Vercel, GCP, AWS |
+| Automation | n8n, Make.com, AppScript |
+| Frontend | React, Vite, HTML, CSS |
+ 
 ---
+ 
+## Selected Projects
+ 
+| Project | Stack | Description |
+|---|---|---|
+| [CLIPSIDE](https://github.com/marcobaturan/CLIPSIDE) | Python, CustomTkinter, clipspy, Ollama | Modern IDE for CLIPS expert systems. Cross-platform. Local LLM assistant. |
+| [CV Analyser](https://github.com/marcobaturan/cv-analyser) | React, FastAPI, Groq | AI-powered CV-to-job fit scorer. Deployed on Vercel. |
+| [Asyncron](https://github.com/marcobaturan/asyncron) | Chrome Extension, JS, tar | Async video bundle format for distributed teams. Chrome + Firefox. |
+| [General Learner 5](https://github.com/marcobaturan/General_Learner_5) | Python, Pygame, SQLite | Autonomous agent simulation based on Walter Fritz's 1989 IS architecture. |
+| [Stock Dashboard](https://github.com/marcobaturan/stock-dashboard) | Python, Streamlit, Groq | Technical analysis dashboard with Elliott Wave detection and LLM report. |
+ 
+---
+ 
+## Professional Focus
+ 
+- QA architecture for regulated systems
+- LLM evaluation, RLHF annotation, and AI quality assurance
+- RAG pipeline design and deployment
+- Voice model training (TTS, Spanish)
+- Backend Python systems
+ 
+---
+ 
+## Certifications
+ 
+- AWS Course Completion Certificate
+- AWS Skill Builder Course Completion Certificate
+ 
+---
+ 
+*Open to senior and staff engineering roles in AI, QA architecture, and backend systems. Remote preferred.*
 
-## 🔬 Scientific & Academic Footprint
-
-I believe in the convergence of AI and science. You can track my research contributions and citations here:
-- 🎓 **[Google Scholar Profile](https://scholar.google.com/citations?user=gqWxbUYAAAAJ)**
-- 🆔 **[ORCID iD: 0009-0001-5975-7986](https://orcid.org/0009-0001-5975-7986)**
 
 ---
 
