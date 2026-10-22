@@ -1,65 +1,57 @@
-# Marco Baturan García
- 
-**Senior SDET · AI Integration Engineer · Backend Python**
- 
-Madrid, Spain · marco.baturan@gmail.com · [LinkedIn](https://linkedin.com/in/marcogarciabaturan)
- 
----
- 
-## About
- 
-8+ years designing and deploying QA automation frameworks and AI integration systems in regulated financial environments.
- 
-Core work: Python automation architecture, LLM pipeline engineering, RAG systems, RLHF annotation and evaluation, and voice model training. Background in fintech (200+ banking systems), currently contracted for LLM quality assurance and multimodal AI evaluation.
- 
-Not a generalist. A systems engineer who connects QA, AI, and backend layers.
- 
----
- 
-## Technical Stack
- 
-| Area | Tools |
-|---|---|
-| Languages | Python 3.10–3.13, JavaScript, SQL, Bash |
-| AI / ML | LangChain, LangGraph, RAG, RLHF, Groq, Ollama, ChromaDB, Qdrant, OpenAI API |
-| QA / Testing | Robot Framework, Selenium, pytest, Gherkin/BDD, Locust, pylint, bandit |
-| Backend | FastAPI, Django, SQLAlchemy, REST APIs, PostgreSQL, SQLite |
-| DevOps | Jenkins, GitHub Actions, Docker, Vercel, GCP, AWS |
-| Automation | n8n, Make.com, AppScript |
-| Frontend | React, Vite, HTML, CSS |
- 
----
- 
-## Selected Projects
- 
-| Project | Stack | Description |
-|---|---|---|
-| [CLIPSIDE](https://github.com/marcobaturan/CLIPSIDE) | Python, CustomTkinter, clipspy, Ollama | Modern IDE for CLIPS expert systems. Cross-platform. Local LLM assistant. |
----
- 
-## Professional Focus
- 
-- QA architecture for regulated systems
-- LLM evaluation, RLHF annotation, and AI quality assurance
-- RAG pipeline design and deployment
-- Voice model training (TTS, Spanish)
-- Backend Python systems
- 
----
- 
-## Certifications
- 
-- AWS Course Completion Certificate
-- AWS Skill Builder Course Completion Certificate
- 
----
+# MARCO BATURAN GARCÍA
 
----
+Madrid, Spain | +34 644 477 755 | marco.baturan@gmail.com | github.com/marcobaturan
 
-## Connect & Collaborate
+**SDET QA | AI-Driven Test Automation | Regulated Fintech**
 
-- **Personal Site**: [Marco Baturan Sites](https://sites.google.com/view/marcobaturan/)
-- **Professional**: [LinkedIn](https://www.linkedin.com/in/marcogarciabaturan/)
-- **About Me**: [about.me/marco.baturan](https://about.me/marco.baturan)
+## PROFILE
 
----
+SDET QA with over 7 years of experience in regulated fintech and banking (Allfunds), delivering test automation across more than 200 bank client projects. Designed Python and Robot Framework automation frameworks integrated into Jenkins CI/CD. Applied machine learning to test generation in production from 2018, and since 2025 has built LLM and RAG pipelines for compliance and operations.
+
+## EXPERIENCE
+
+### Mercor, AI Evaluator (contractor)
+*May 2026 – Present, 5 months*
+
+- Verified RLHF outputs on text and office artefacts (Word, Excel, PowerPoint): style and layout errors, colour and image choices with rights or policy implications.
+- Applied LLM response evaluation rubrics across accuracy, safety and coherence.
+
+### Newry Global Media S.L., AI Manager
+*Jun 2025 – Dec 2025, 6 months*
+
+- Designed and deployed a compliance system for Google Play app policy correction requests, previously handled case by case manually. LLM + RAG pipeline over policy rules, with SQL storage of cases, feedback and per-rule adjustments, designed to progressively reduce compliance team intervention as it learns.
+- According to the compliance users, it freed at least a quarter of their manual review time, allowing them to focus on negotiation with Google. (Users' estimate; no formal measurement.)
+- LLM and RAG pipelines on Google Cloud Platform; async Python microservices for legacy operational workflows.
+
+### Allfunds, Senior QA Automation Engineer / SDET Lead
+*May 2018 – Jun 2025, 7+ years*
+
+- Designed and built, together with a fellow QA engineer, a Python automation framework that delivered QA projects for more than 200 bank clients. Cycle per project went from one month to one day (two days on average), with a team of two.
+- Automated generation and scheduling of content, format, functional, security (SQL and JS injection into fields), performance (JMeter) and stability tests from user stories, runnable from the command line or GUI.
+- RegEx-to-Gherkin engine generating data validation scenarios for complex financial APIs; automatic verification of JSON endpoints.
+- Researched and prototyped ML/AI for testing: a system that reads a front end and generates full Gherkin tests executed on Selenium, launched as a Jenkins job within the CI/CD chain. Entered production within the first six months (2018).
+- Developed 25 tools automating repetitive tasks of the role.
+- Applied linting, regression, integration and smoke testing across teams.
+
+### Sopra Steria, Python Backend Developer
+*Jan 2018 – Apr 2018, 4 months*
+
+- Server-side APIs for financial and public sector projects; Python chatbot for email and scheduling assistance.
+
+### Earlier experience (2007–2018)
+
+Full-stack development and infrastructure support for SMB, clinic and educational platforms (Django, Python, OpenERP/Odoo) across Windows, Linux, macOS and Android.
+
+## TECHNOLOGIES
+
+- **Languages:** Python, SQL, Bash, JavaScript (production); TypeScript (studying)
+- **QA:** Robot Framework, Selenium, pytest, Gherkin/BDD, JMeter, Jenkins (production); Locust (personal projects); pylint, bandit (studying)
+- **AI / LLM:** LangChain, LangGraph, RAG, MCP, GenAI APIs, Groq, GCP (production); Ollama, ChromaDB, Qdrant (studying)
+- **Automation:** Make, Zapier, n8n, AppScript (production)
+- **Front:** React, Vite (personal projects)
+
+## EDUCATION & CERTIFICATIONS
+
+- Research collaborator, University of Seville (Cryobiology Dept.): prototype for identifying lower-toxicity cryoprotectants using Python and LLM/RAG.
+- AWS Skill Builder: course completion certificate.
+- Google Scholar: scholar.google.com/citations?user=gqWxbUYAAAAJ
