@@ -11,20 +11,20 @@ SDET QA with over 7 years of experience in regulated fintech and banking (Allfun
 ## EXPERIENCE
 
 ### Mercor, AI Evaluator (contractor)
-*May 2026 – Present, 5 months*
+*May 2026 – Present*
 
 - Verified RLHF outputs on text and office artefacts (Word, Excel, PowerPoint): style and layout errors, colour and image choices with rights or policy implications.
 - Applied LLM response evaluation rubrics across accuracy, safety and coherence.
 
 ### Newry Global Media S.L., AI Manager
-*Jun 2025 – Dec 2025, 6 months*
+*Jun 2025 – Dec 2025*
 
 - Designed and deployed a compliance system for Google Play app policy correction requests, previously handled case by case manually. LLM + RAG pipeline over policy rules, with SQL storage of cases, feedback and per-rule adjustments, designed to progressively reduce compliance team intervention as it learns.
-- According to the compliance users, it freed at least a quarter of their manual review time, allowing them to focus on negotiation with Google. (Users' estimate; no formal measurement.)
+- According to the compliance users, it freed at least a quarter of their manual review time, allowing them to focus on negotiation with Google.
 - LLM and RAG pipelines on Google Cloud Platform; async Python microservices for legacy operational workflows.
 
 ### Allfunds, Senior QA Automation Engineer / SDET Lead
-*May 2018 – Jun 2025, 7+ years*
+*May 2018 – Jun 2025*
 
 - Designed and built, together with a fellow QA engineer, a Python automation framework that delivered QA projects for more than 200 bank clients. Cycle per project went from one month to one day (two days on average), with a team of two.
 - Automated generation and scheduling of content, format, functional, security (SQL and JS injection into fields), performance (JMeter) and stability tests from user stories, runnable from the command line or GUI.
@@ -34,7 +34,7 @@ SDET QA with over 7 years of experience in regulated fintech and banking (Allfun
 - Applied linting, regression, integration and smoke testing across teams.
 
 ### Sopra Steria, Python Backend Developer
-*Jan 2018 – Apr 2018, 4 months*
+*Jan 2018 – Apr 2018*
 
 - Server-side APIs for financial and public sector projects; Python chatbot for email and scheduling assistance.
 
@@ -53,5 +53,5 @@ Full-stack development and infrastructure support for SMB, clinic and educationa
 ## EDUCATION & CERTIFICATIONS
 
 - Research collaborator, University of Seville (Cryobiology Dept.): prototype for identifying lower-toxicity cryoprotectants using Python and LLM/RAG.
-- AWS Skill Builder: course completion certificate.
 - Google Scholar: scholar.google.com/citations?user=gqWxbUYAAAAJ
+- For education & certification, please read my GitHub profile and associated repository for this topic.
